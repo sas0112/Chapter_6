@@ -1,3 +1,5 @@
+from typing import Dict
+
 users = {
     'aeinstein':{
         'first':'albert',
